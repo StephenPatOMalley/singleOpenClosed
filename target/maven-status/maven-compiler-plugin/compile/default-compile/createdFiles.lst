@@ -23,4 +23,5 @@ ie\gmit\segregation\ToyPlane.class
 ie\gmit\dependency\LightBulb.class
 ie\gmit\single\User.class
 ie\gmit\segregation\ToyHouse.class
+ie\gmit\single\ValidController.class
 ie\gmit\dependency\ElectricSocketWithSwitch.class
